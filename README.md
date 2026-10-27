@@ -22,7 +22,7 @@ juego_harness/
 ├── .venv/                # Entorno virtual de Python
 ├── aprobado/             # Historial de cierres de sprint y tareas validadas
 ├── assets/               # Recursos gráficos y multimedia del juego
-├── specs/                # Especificaciones técnicas y requisitos globales
+├── specs/                # Especificaciones técnicas y requisitos globales (medidos por sprints, 01,02, etc.)
 ├── src/                  # Código fuente principal (Pygame)
 ├── tasks/                # Tareas modulares asignadas por rol
 ├── .gitignore
