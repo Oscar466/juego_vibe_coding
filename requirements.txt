@@ -1,0 +1,4 @@
+# Dependencias del proyecto (Sprint 01)
+# Instalación: python3 -m venv .venv && .venv/bin/python -m pip install -r requirements.txt
+# Python requerido: >= 3.10 (verificado con 3.12.14)
+pygame==2.6.1
