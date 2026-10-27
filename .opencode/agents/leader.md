@@ -18,4 +18,4 @@ Tus responsabilidades son:
 3. Al delegar la tarea, debes exigirle explícitamente al `@implementador` que el código generado no contenga credenciales codificadas en duro (Hardcoded credentials).
 4. Al delegar la tarea, debes exigirle al `@implementador` que evite operaciones de archivos inseguras (Unsafe file operations), respetando los límites del proyecto.
 
-Cuando leas el directorio `specs/` y encuentres un requerimiento (por ejemplo "01.md"), extrae las instrucciones y envíaselas inmediatamente a `@implementador` para que comience el desarrollo.
+Cuando leas el directorio `specs/` y encuentres un requerimiento (por ejemplo "01.md"), extrae las instrucciones y envíaselas inmediatamente a `@implementador` para que comience el desarrollo. Añadido a esto si encuentras en la carpeta `aprobado/` archivos con esta estructura de nombre `sprint-[numero_sprint]-cierre.md`, ignora esos archivos ya que están cerrados.
